@@ -25,3 +25,4 @@ Host: sql12.freesqldatabase.com
 Database name: sql12748624
 Database user: sql12748624
 Database password: t1cYQ3mA5g
+
