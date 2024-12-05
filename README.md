@@ -5,7 +5,10 @@
 Netbeans-https://netbeans.apache.org/front/main/download/nb20/
 JDK-https://www.oracle.com/java/technologies/javase/jdk20-archive-downloads.html
 
+
 //Step 2 Inside the netbeans click open project and find the Event Management file
+
+Right click the libraries then add Jar/Folder look for the mysql-connector-j that have been downloaded click it thend click open
 
 //Step 3 Run the loginForm and click signup button
 
