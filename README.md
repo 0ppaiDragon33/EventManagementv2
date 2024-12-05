@@ -19,10 +19,3 @@ Save - if the id is empty the data base auto-increment the id and can manually s
 Delete - when deleting just put the id you want to delete in the id textbox
 Search - just like delete put the id you want to search and if there is no id entered it well show all events
 update - Put the id in the textfield that want to be updated and updated the rest of the textfield if needed
-
-
-Host: sql12.freesqldatabase.com
-Database name: sql12748624
-Database user: sql12748624
-Database password: t1cYQ3mA5g
-
